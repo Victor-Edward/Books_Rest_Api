@@ -6,7 +6,9 @@
 <img src="https://github.com/Victor-Edward/Books_Rest_Api/blob/main/books_api/images/example.png?raw=true" alt="Example image"/>
  
 ## Dependencies:
- • Python 3.9.4
+ • Python 3.9.4 <br>
+ • Django 3.2.2 <br>
+ • Django Rest Framework 3.12.4 <br>
  
 ## Getting started:
   1- Clone this repository using "git clone https://github.com/Victor-Edward/Books_Rest_Api.git" <br>
