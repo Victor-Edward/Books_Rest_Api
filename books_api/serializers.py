@@ -12,3 +12,4 @@ class BookSerializer(serializers.ModelSerializer):
     class Meta:
         model = Book
         fields = "__all__"
+        extra_kwargs = {"pages": {"min_value": 1}}
